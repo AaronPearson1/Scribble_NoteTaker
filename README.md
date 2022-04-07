@@ -17,7 +17,7 @@ This application allows a user to enter, save, delete, and edit notes
 
 ## Installation
 
-N/A
+To install, clone code and ensure package.json and node modules are current by running "npm install". To run localhost, type "npm start" into your command line. Next, navigate to the browser and enter the corresponeding local host port. You will then see the application. 
 
 ## Usage
 
